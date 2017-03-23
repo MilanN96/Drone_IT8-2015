@@ -15,7 +15,7 @@ public class DroneController {
     	   System.out.println(dr.getFormatedCoordinates());
     	  
        }
-       System.out.println("Dron leti desnoo ");
+       System.out.println("Dron leti desno");
        for(int i=0;i<10;i++)
        {
     	   dr.moveRight();
