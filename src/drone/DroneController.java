@@ -6,7 +6,7 @@ public class DroneController {
        
 		Drone dr = new Drone(30,0,30);
 		System.out.println("pocetne koordinate. "+dr.getFormatedCoordinates());
-		System.out.println("Dron leti gore");
+		System.out.println("Dron  leti gore");
        for(int i =0; i<10;i++)
        {
     	   

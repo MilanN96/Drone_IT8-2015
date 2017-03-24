@@ -39,7 +39,7 @@ public class Drone {
 		return "("+x+","+y+","+z+")";
 	}
 	public  String getFormatedCoordinates(){
-		return "Dron se  nalazi na (x,y,z)=("+x+","+y+","+z+")";
+		return "Dron se nalazi na (x,y,z)=("+x+","+y+","+z+")";
 	} 
 	
 	public int getX() {
